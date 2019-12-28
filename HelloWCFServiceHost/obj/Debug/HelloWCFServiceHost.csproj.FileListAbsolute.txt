@@ -1,0 +1,11 @@
+C:\Code\HelloWCFService\HelloWCFServiceHost\bin\Debug\HelloWCFServiceHost.exe.config
+C:\Code\HelloWCFService\HelloWCFServiceHost\bin\Debug\HelloWCFServiceHost.exe
+C:\Code\HelloWCFService\HelloWCFServiceHost\bin\Debug\HelloWCFServiceHost.pdb
+C:\Code\HelloWCFService\HelloWCFServiceHost\bin\Debug\HelloWCFService.dll
+C:\Code\HelloWCFService\HelloWCFServiceHost\bin\Debug\HelloWCFService.pdb
+C:\Code\HelloWCFService\HelloWCFServiceHost\bin\Debug\HelloWCFService.dll.config
+C:\Code\HelloWCFService\HelloWCFServiceHost\obj\Debug\HelloWCFServiceHost.csprojAssemblyReference.cache
+C:\Code\HelloWCFService\HelloWCFServiceHost\obj\Debug\HelloWCFServiceHost.csproj.CoreCompileInputs.cache
+C:\Code\HelloWCFService\HelloWCFServiceHost\obj\Debug\HelloWCFServiceHost.csproj.CopyComplete
+C:\Code\HelloWCFService\HelloWCFServiceHost\obj\Debug\HelloWCFServiceHost.exe
+C:\Code\HelloWCFService\HelloWCFServiceHost\obj\Debug\HelloWCFServiceHost.pdb

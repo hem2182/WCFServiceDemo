@@ -1,0 +1,7 @@
+C:\Code\HelloWCFService\HelloWCFService\bin\Debug\HelloWCFService.dll.config
+C:\Code\HelloWCFService\HelloWCFService\bin\Debug\HelloWCFService.dll
+C:\Code\HelloWCFService\HelloWCFService\bin\Debug\HelloWCFService.pdb
+C:\Code\HelloWCFService\HelloWCFService\obj\Debug\HelloWCFService.csprojAssemblyReference.cache
+C:\Code\HelloWCFService\HelloWCFService\obj\Debug\HelloWCFService.csproj.CoreCompileInputs.cache
+C:\Code\HelloWCFService\HelloWCFService\obj\Debug\HelloWCFService.dll
+C:\Code\HelloWCFService\HelloWCFService\obj\Debug\HelloWCFService.pdb
